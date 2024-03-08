@@ -1,10 +1,6 @@
 [![mch-ardians's header](sources/images/readmebox.svg "mch-ardians's header")]()
 
 <p align="center">
-  <a href="https://dev.to/mch-ardians">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DEV_Community_Badge.svg" height="30" />
-  </a>
-  &nbsp
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" height="30" />
   </a>
@@ -58,7 +54,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Back-end
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -76,6 +71,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 <img src="sources/gif/separator.gif" width=100% />
 
@@ -83,4 +80,4 @@
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=mch-ardians&show_icons=true&theme=algolia" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mch-ardians&langs_count=8&theme=algolia&layout=compact&hide=css,scss,less,html,hack" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mchardians&show_icons=true&theme=algolia" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchardians&langs_count=8&theme=algolia&layout=compact&hide=css,scss,less,html,hack" /> |
