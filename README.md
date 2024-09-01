@@ -1,23 +1,23 @@
-[![mch-ardians's header](sources/images/readmebox.svg "mch-ardians's header")]()
+[![mch-ardians's header](sources/images/readmebox.svg "mchardians's header")]()
 
 <p align="center">
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" height="30" />
   </a>
   &nbsp
-  <a href="https://www.instagram.com/mch_ardians">
+  <a href="https://www.instagram.com/mchardians">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" />
   </a>
   &nbsp
-  <a href="https://t.me/mch_ardians">
+  <a href="https://t.me/mchardians">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" />
   </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Junior+Back-end+Developer&color=FFFFFF" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Junior+Back-end+Developer" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Backend+Developer&color=FFFFFF" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="mchardians's career" />
   </picture>
 </p>
 
@@ -34,8 +34,8 @@
 - 👨‍💼 My name is `Mochammad Ardiansyah`
 - 🏚️ I Live in `Mojokerto City, East Java`
 - 👶🏻 Born in `Surabaya, October 13th 2002`
-- 🎂 Currently, I am `20` years old
-- 👨‍🎓 I study `Informatics Management` at `Politeknik Negeri Malang`
+- 🎂 Currently, I am `21` years old
+- 👨‍🎓 I study `Informatics Engineering` at `Politeknik Negeri Malang`
 - 🌏 Languages I prefered to use are :
   - 🇮🇩 Indonesian
   - 🇬🇧 English
@@ -54,22 +54,17 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Back-end
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
